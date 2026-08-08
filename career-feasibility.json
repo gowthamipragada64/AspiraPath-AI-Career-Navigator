@@ -1,0 +1,20 @@
+{
+  "widget": "Career Feasibility Analysis",
+  "description": "Evaluates whether the target career is achievable under the student's current circumstances.",
+  "analysis": {
+    "academic_suitability": "",
+    "skill_suitability": "",
+    "financial_feasibility": "",
+    "time_feasibility": "",
+    "geographic_feasibility": "",
+    "competition_level": ""
+  },
+  "output": {
+    "overall_feasibility": "",
+    "academic_fit": "",
+    "technical_readiness": "",
+    "financial_feasibility": "",
+    "time_feasibility": "",
+    "major_risks": []
+  }
+}
