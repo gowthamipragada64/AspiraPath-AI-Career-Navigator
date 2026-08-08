@@ -1,0 +1,35 @@
+{
+  "widget": "Personalized Learning Roadmap",
+  "phases": [
+    {
+      "period": "0-3 Months",
+      "focus": "Foundation",
+      "skills": [],
+      "activities": []
+    },
+    {
+      "period": "3-6 Months",
+      "focus": "Core Skills",
+      "skills": [],
+      "activities": []
+    },
+    {
+      "period": "6-9 Months",
+      "focus": "Advanced Skills",
+      "skills": [],
+      "activities": []
+    },
+    {
+      "period": "9-12 Months",
+      "focus": "Projects and Portfolio",
+      "skills": [],
+      "activities": []
+    },
+    {
+      "period": "12+ Months",
+      "focus": "Internship and Job Preparation",
+      "skills": [],
+      "activities": []
+    }
+  ]
+}
