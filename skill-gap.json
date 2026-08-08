@@ -1,0 +1,19 @@
+{
+  "widget": "Skill Gap Analyzer",
+  "description": "Compares the student's current skills with the requirements of the target career.",
+  "skills": [
+    {
+      "skill": "",
+      "current_level": 0,
+      "required_level": 0,
+      "gap": "",
+      "priority": ""
+    }
+  ],
+  "priority_levels": {
+    "1": "Foundation",
+    "2": "Core",
+    "3": "Advanced",
+    "4": "Differentiator"
+  }
+}
