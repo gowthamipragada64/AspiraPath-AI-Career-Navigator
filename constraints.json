@@ -1,0 +1,26 @@
+{
+  "widget": "Constraint Profile",
+  "description": "Captures financial, time, geographic and academic constraints.",
+  "financial_constraints": {
+    "maximum_education_budget": 0,
+    "maximum_monthly_learning_budget": 0,
+    "needs_financial_assistance": false,
+    "prefer_free_resources": true
+  },
+  "time_constraints": {
+    "hours_per_day": 0,
+    "days_per_week": 0,
+    "target_completion_period": ""
+  },
+  "geographic_constraints": {
+    "preferred_location": "",
+    "willing_to_relocate": false,
+    "learning_preference": "online"
+  },
+  "academic_constraints": {
+    "qualification": "",
+    "percentage_or_cgpa": null,
+    "required_subjects": [],
+    "entrance_exam_requirements": []
+  }
+}
