@@ -1,0 +1,11 @@
+{
+  "widget": "Career Aspiration",
+  "description": "Captures the student's desired career direction.",
+  "fields": {
+    "dream_career": "",
+    "target_job_role": "",
+    "preferred_industry": "",
+    "motivation": "",
+    "expected_timeline": ""
+  }
+}
