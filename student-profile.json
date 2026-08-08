@@ -1,0 +1,16 @@
+{
+  "widget": "Student Profile",
+  "description": "Collects the student's academic and professional background.",
+  "fields": {
+    "name": "",
+    "age": null,
+    "location": "",
+    "education": "",
+    "percentage_or_cgpa": null,
+    "current_year": "",
+    "subjects": [],
+    "skills": [],
+    "certifications": [],
+    "projects": []
+  }
+}
