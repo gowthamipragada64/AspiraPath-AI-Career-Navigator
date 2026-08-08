@@ -1,0 +1,33 @@
+{
+  "widget": "Education Pathway Generator",
+  "pathways": {
+    "traditional": [
+      "Degree",
+      "Specialization",
+      "Certification",
+      "Projects",
+      "Internship",
+      "Job"
+    ],
+    "skill_first": [
+      "Self-learning",
+      "Projects",
+      "Certification",
+      "Internship",
+      "Job"
+    ],
+    "affordable": [
+      "Free resources",
+      "Open-source projects",
+      "Portfolio",
+      "Internship",
+      "Employment"
+    ],
+    "alternative": [
+      "Related career",
+      "Experience",
+      "Specialization",
+      "Target career"
+    ]
+  }
+}
